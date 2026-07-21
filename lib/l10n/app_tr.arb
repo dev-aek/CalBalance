@@ -1,0 +1,20 @@
+{
+  "@@locale": "tr",
+  "today": "Bugün",
+  "history": "Geçmiş",
+  "progress": "İlerleme",
+  "settings": "Ayarlar",
+  "save": "Kaydet",
+  "cancel": "Vazgeç",
+  "addEntry": "Kayıt ekle",
+  "calories": "Kalori",
+  "protein": "Protein",
+  "water": "Su",
+  "steps": "Adım",
+  "dailyBalance": "kcal günlük denge",
+  "noEntries": "Henüz kayıt yok",
+  "goals": "Hedefler",
+  "notifications": "Bildirimler",
+  "categories": "Kategoriler",
+  "data": "Veriler"
+}

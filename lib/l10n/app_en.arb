@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "today": "Today",
+  "history": "History",
+  "progress": "Progress",
+  "settings": "Settings",
+  "save": "Save",
+  "cancel": "Cancel",
+  "addEntry": "Add entry",
+  "calories": "Calories",
+  "protein": "Protein",
+  "water": "Water",
+  "steps": "Steps",
+  "dailyBalance": "kcal daily balance",
+  "noEntries": "No entries yet",
+  "goals": "Goals",
+  "notifications": "Notifications",
+  "categories": "Categories",
+  "data": "Data"
+}
