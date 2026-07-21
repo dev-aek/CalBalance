@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo-text.png" alt="CalBalance" width="360">
+  <img src="assets/readme/logo-text.png" alt="CalBalance" width="360">
 </p>
 
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="#download">Download</a> ·
-  <a href="#screenshots">Screenshots</a> ·
-  <a href="#features">Features</a> ·
-  <a href="#development">Development</a> ·
+  <a href="#download">Download</a> |
+  <a href="#screenshots">Screenshots</a> |
+  <a href="#features">Features</a> |
+  <a href="#development">Development</a> |
   <a href="#contributing">Contributing</a>
 </p>
 
@@ -21,11 +21,11 @@ CalBalance is public and open to contributions. Fork the repository, experiment 
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/today.png" alt="Today screen" width="180">
-  <img src="docs/screenshots/history.png" alt="History screen" width="180">
-  <img src="docs/screenshots/progress.png" alt="Progress screen" width="180">
-  <img src="docs/screenshots/weekly.png" alt="Weekly summary screen" width="180">
-  <img src="docs/screenshots/settings.png" alt="Settings screen" width="180">
+  <img src="assets/readme/today.png" alt="Today screen" width="180">
+  <img src="assets/readme/history.png" alt="History screen" width="180">
+  <img src="assets/readme/progress.png" alt="Progress screen" width="180">
+  <img src="assets/readme/weekly.png" alt="Weekly summary screen" width="180">
+  <img src="assets/readme/settings.png" alt="Settings screen" width="180">
 </p>
 
 ## Features
@@ -78,10 +78,9 @@ lib/
     calculators.dart
     repository.dart
     database/
-docs/
-  assets/
-  refs/
-  screenshots/
+assets/
+  brand/
+  readme/
 test/
 android/
 ios/

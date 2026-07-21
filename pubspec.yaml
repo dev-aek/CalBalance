@@ -80,27 +80,27 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - docs/assets/app-logo.png
-    - docs/assets/logo.png
+    - assets/brand/app-logo.png
+    - assets/brand/logo.png
 
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: docs/assets/app-logo.png
+  image_path: assets/brand/app-logo.png
   adaptive_icon_background: "#030B18"
-  adaptive_icon_foreground: docs/assets/app-logo.png
+  adaptive_icon_foreground: assets/brand/app-logo.png
   min_sdk_android: 26
 
 flutter_native_splash:
   color: "#030B18"
-  image: docs/assets/app-logo.png
+  image: assets/brand/app-logo.png
   color_dark: "#030B18"
-  image_dark: docs/assets/app-logo.png
+  image_dark: assets/brand/app-logo.png
   android_12:
     color: "#030B18"
-    image: docs/assets/app-logo.png
+    image: assets/brand/app-logo.png
     color_dark: "#030B18"
-    image_dark: docs/assets/app-logo.png
+    image_dark: assets/brand/app-logo.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:

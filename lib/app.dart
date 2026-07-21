@@ -180,7 +180,7 @@ class _OnboardingState extends ConsumerState<OnboardingScreen> {
     appBar: AppBar(
       title: Row(
         children: [
-          Image.asset('docs/assets/app-logo.png', width: 36, height: 36),
+          Image.asset('assets/brand/app-logo.png', width: 36, height: 36),
           const SizedBox(width: 10),
           const Text('CalBalance'),
         ],
