@@ -25,7 +25,6 @@ CalBalance is public and open to contributions. Fork the repository, experiment 
   <img src="assets/readme/history.png" alt="History screen" width="180">
   <img src="assets/readme/progress.png" alt="Progress screen" width="180">
   <img src="assets/readme/weekly.png" alt="Weekly summary screen" width="180">
-  <img src="assets/readme/settings.png" alt="Settings screen" width="180">
 </p>
 
 ## Features
